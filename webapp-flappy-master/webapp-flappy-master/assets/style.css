@@ -1,0 +1,16 @@
+h1 {
+    color: #673ab7;
+    font-weight: bold;
+    text-align: center;
+}
+.food{
+  color: blue;
+
+}
+.city{
+  color: green;
+}
+
+#chicken{
+  color: yellow;
+}
